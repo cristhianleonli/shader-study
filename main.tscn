@@ -122,6 +122,7 @@ animations = [{
 }]
 
 [node name="Main" type="Node2D" unique_id=494155573]
+position = Vector2(216, 161)
 
 [node name="Estudio1" type="Sprite2D" parent="." unique_id=273161550]
 material = SubResource("ShaderMaterial_h2yge")
